@@ -1,0 +1,9 @@
+{
+  "minecraft:air": 0.0,
+  "#minecraft:dirt": 0.05,
+  "minecraft:wool": 0.0,
+  "#minecraft:stone": 0.4,
+  "#c:ores": 0.45,
+  "minecraft:wood": 0.2,
+  "minecraft:obsidian": 0.2
+}

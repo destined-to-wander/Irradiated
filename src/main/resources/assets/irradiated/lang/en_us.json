@@ -1,0 +1,10 @@
+{
+  "creativetab.irradiated_tab": "Irradiated Api",
+  "item.irradiated.radprobe": "Radiation Probe",
+  "block.irradiated.radsource": "Radiation Test Source",
+
+  "message.rad_level": "α Level: %1$s β Level: %2$s γ Level: %3$s",
+  "message.no_radiation": "No radiation detected at this block.",
+  "message.no_block_pointed": "You are not pointing at a block."
+
+}
